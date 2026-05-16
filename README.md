@@ -25,6 +25,7 @@ A fully functional React shopping app built as a frontend portfolio project.
 - Cleanup functions in useEffect
 
 ## Run Locally
+http://localhost:3000
 ```bash
 npm install
 npm start
