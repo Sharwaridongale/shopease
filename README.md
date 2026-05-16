@@ -24,6 +24,9 @@ A fully functional React shopping app built as a frontend portfolio project.
 - Promise.all for parallel API calls
 - Cleanup functions in useEffect
 
+## 🔗 Live Demo
+👉 https://shopease-rho-nine.vercel.app
+
 ## Run Locally
 http://localhost:3000
 ```bash
